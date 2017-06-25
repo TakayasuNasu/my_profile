@@ -73,11 +73,11 @@
 
 ---
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| ![network](assets/images/network.png) | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
+| ------------- |:-------------:|
+| ![java](assets/images/java.png) | 得意 |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
 
 ---
 
