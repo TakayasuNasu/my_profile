@@ -77,8 +77,8 @@
 | スキル        | レベル         |
 | ------------- | ------------- |
 | <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/java.png" > | 得意 |
-| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/php.png" >     | centered      |
-| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/node.png" >| are neat      |
+| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/php.png" > | centered      |
+| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/node.png" > | are neat      |
 
 ---
 
