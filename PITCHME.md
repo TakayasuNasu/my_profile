@@ -37,7 +37,7 @@
 
 ---
 
-![senkin](assets/images/senkin.png){:height="36px" width="36px"}
+![senkin](assets/images/senkin.png)
 
 ---
 
@@ -69,6 +69,11 @@
 
 ---
 
+![network](assets/images/network.png)
+
+---
+
+|![network](assets/images/network.png)|hoge|
 
 ---
 
