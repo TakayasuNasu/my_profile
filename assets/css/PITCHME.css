@@ -1,3 +1,6 @@
+.reveal section td {
+  vertical-align: middle;
+}
 .reveal section table img {
   border: 0;
   box-shadow: none;
