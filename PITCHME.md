@@ -10,16 +10,16 @@
   </tr>
   <tr>
     <td rowspan="4"><img src="https://avatars0.githubusercontent.com/u/6420260"></td>
-    <td>hoge</td>
-  </tr>
-  <tr style="height:20px">
-    <td style="font-size : 18px;">Github: TakayasuNasu</td>
+    <td style="font-size : 32px;">Github: TakayasuNasu</td>
   </tr>
   <tr>
-    <td style="font-size : 12px;">好きなサッカークラブは大分トリニータ</td>
+    <td style="font-size : 32px;">好きなコマンドは"bundle install"</td>
   </tr>
   <tr>
-    <td style="font-size : 6px;">好きなJojoのストーリーは</td>
+    <td style="font-size : 32px;">好きなサッカークラブは大分トリニータ</td>
+  </tr>
+  <tr>
+    <td style="font-size : 32px;">好きなJojoのストーリーは第5部"今にも落ちてきそうな空の下で"</td>
   </tr>
 </table>
 
