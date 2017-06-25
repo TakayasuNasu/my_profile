@@ -1,2 +1,8 @@
 #テーマの設定
 theme : sky
+
+#フットノートの設定
+footnote : "© 2017 Takayasu Nasu"
+
+# センタリング解除
+vertical-center : false
