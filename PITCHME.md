@@ -6,28 +6,19 @@
 
 <table>
   <tr>
-    <th rowspan="4"></th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th rowspan="4"><img src="https://avatars0.githubusercontent.com/u/6420260"></th>
     <th></th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>hoge</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>fuga</td>
     <td></td>
   </tr>
 </table>
