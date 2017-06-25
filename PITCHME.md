@@ -13,15 +13,17 @@
     <td></td>
   </tr>
   <tr>
-    <td>Github: TakayasuNasu</td>
+    <td style="font-size : 18px;">Github: TakayasuNasu</td>
   </tr>
   <tr>
-    <td>好きなサッカークラブは大分トリニータ</td>
+    <td style="font-size : 12px;">好きなサッカークラブは大分トリニータ</td>
   </tr>
   <tr>
-    <td>好きなJojoのストーリーは</td>
+    <td style="font-size : 6px;">好きなJojoのストーリーは</td>
   </tr>
 </table>
+
+---
 
 ### 簡単な経歴
 
