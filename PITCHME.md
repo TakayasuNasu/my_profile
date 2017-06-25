@@ -74,14 +74,9 @@
 ---
 
 
-| ------------- |:-------------:|
-| ![java](assets/images/java.png) | 得意 |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
-
-| Tables        | Are           |
-| ------------- |:-------------:|
-| col 3 is      | right-aligned |
+| スキル        | レベル           |
+| ------------- |-------------|
+| ![java](assets/images/java.png)     | 得意 |
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
 
