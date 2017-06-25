@@ -5,4 +5,4 @@ theme : sky
 footnote : "© 2017 Takayasu Nasu"
 
 # センタリング解除
-vertical-center : false
+horizontal-center : false
