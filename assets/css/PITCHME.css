@@ -1,3 +1,7 @@
+.reveal section img {
+  width: auto;
+  height: 100%;
+}
 .reveal section table img {
   border: 0;
   box-shadow: none;
