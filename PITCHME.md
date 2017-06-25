@@ -37,7 +37,7 @@
 
 ---
 
-![senkin](assets/images/senkin.png)
+<img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/senkin.png" align="left" height="48" width="48" >
 
 ---
 
@@ -74,11 +74,11 @@
 ---
 
 
-| スキル        | レベル           |
-| ------------- |-------------|
+| スキル        | レベル         |
+| ------------- | ------------- |
 | <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/java.png" > | 得意 |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/php.png" >     | centered      |
+| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/node.png" >| are neat      |
 
 ---
 
