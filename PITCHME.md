@@ -10,9 +10,9 @@
   </tr>
   <tr>
     <td rowspan="4"><img src="https://avatars0.githubusercontent.com/u/6420260"></td>
-    <td></td>
+    <td>hoge</td>
   </tr>
-  <tr>
+  <tr style="height:20px">
     <td style="font-size : 18px;">Github: TakayasuNasu</td>
   </tr>
   <tr>
@@ -117,5 +117,5 @@
 
 ---
 
-### おわり
+### よろしくお願いします
  
