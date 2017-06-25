@@ -1,8 +1,8 @@
-#テーマの設定
+# css適用
+theme-override : assets/css/PITCHME.css
+
+# テーマの設定
 theme : sky
 
-#フットノートの設定
+# フットノートの設定
 footnote : "© 2017 Takayasu Nasu"
-
-# センタリング解除
-horizontal-center : false
