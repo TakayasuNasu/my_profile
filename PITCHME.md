@@ -6,20 +6,20 @@
 
 <table>
   <tr>
-    <th rowspan="4"><img src="https://avatars0.githubusercontent.com/u/6420260"></th>
-    <th></th>
+    <th colspan="2">那須 毅康(ナス タカヤス)</th>
   </tr>
   <tr>
-    <td>hoge</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
+    <td rowspan="4"><img src="https://avatars0.githubusercontent.com/u/6420260"></td>
     <td></td>
   </tr>
   <tr>
-    <td>fuga</td>
-    <td></td>
+    <td>Github: TakayasuNasu</td>
+  </tr>
+  <tr>
+    <td>好きなサッカークラブは大分トリニータ</td>
+  </tr>
+  <tr>
+    <td>好きなJojoのストーリーは</td>
   </tr>
 </table>
 
