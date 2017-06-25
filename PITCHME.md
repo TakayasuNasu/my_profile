@@ -73,8 +73,11 @@
 
 ---
 
-|:---|:---|
-| ![network](assets/images/network.png) |hoge|
+|:-----------|------------:|:------------:|
+| ![network](assets/images/network.png) | This        | This         |
+
+|:-----------|------------:|:------------:|
+| This       | This        | This         |
 
 ---
 
