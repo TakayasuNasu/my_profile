@@ -80,17 +80,17 @@
 
 | スキル        | レベル         |
 | ------------- | ------------- |
-| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/java.png" > | 得意 :smile: |
-| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/php.png" > | 得意 :smile: |
-| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/node.png" > | そこそこ :sweat_smile: |
+| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/java.png" > | 得意 |
+| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/php.png" > | 得意 |
+| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/node.png" > | そこそこ |
 
 ---
 
 | スキル        | レベル         |
 | ------------- | ------------- |
-| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/ruby.png" > | そこそこ :sweat_smile: |
-| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/angular.png" > | 得意 :smile: |
-| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/vagrant.png" > | そこそこ :sweat_smile:  |
+| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/ruby.png" > | そこそこ |
+| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/angular.png" > | 得意 |
+| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/android.png" > | そこそこ  |
 
 ---
 
