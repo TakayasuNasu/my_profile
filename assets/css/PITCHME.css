@@ -1,6 +1,6 @@
 .reveal section p img {
-  width: auto;
-  height: 100%;
+  object-fit: contain;
+  object-position: center center;
 }
 .reveal section table img {
   border: 0;
