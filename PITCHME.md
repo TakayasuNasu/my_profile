@@ -28,10 +28,11 @@
 
 ---
 
-![pharmaproduct](assets/images/pharma.png)
-
 - ファーマプロダクト
 - https://pharmaproduct.co.jp/
+
+![pharmaproduct](assets/images/pharma.png)
+
 
 ---
 
@@ -44,8 +45,6 @@
 
 ![sengoku](assets/images/senkin.png)
 
-- 戦国キングダム
-
 ---
 
 ![sengoku](assets/images/momokoplanet.png)
@@ -57,5 +56,7 @@
 
 ### 具体的に何をやっていたのか
 
+
+---
 
 ### おわり
