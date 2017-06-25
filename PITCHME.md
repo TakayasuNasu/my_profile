@@ -37,7 +37,7 @@
 
 ---
 
-![senkin](assets/images/senkin.png&size=auto 90%)
+![senkin](assets/images/senkin.png){:height="36px" width="36px"}
 
 ---
 
@@ -53,7 +53,7 @@
 
 ---
 
-![class](assets/images/class.png)
+![class](assets/images/class.jpg)
 
 ---
 
@@ -65,7 +65,7 @@
 
 ---
 
-![iterm2_2](assets/images/iterm2_2.png)
+![iterm2_2](assets/images/iterm2_2.jpg)
 
 ---
 
