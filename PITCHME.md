@@ -37,7 +37,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/senkin.png" align="left" height="48" width="48" >
+![senkin](assets/images/senkin.png)
 
 ---
 
