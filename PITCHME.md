@@ -76,7 +76,7 @@
 
 | スキル        | レベル           |
 | ------------- |-------------|
-| ![java](assets/images/java.png)     | 得意 |
+| <img src="https://raw.githubusercontent.com/TakayasuNasu/my_profile/master/assets/images/java.png" > | 得意 |
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
 
