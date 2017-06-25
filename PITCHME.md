@@ -24,5 +24,11 @@
 
 ---
 
+### ポートフォリオ
+
+![pharmaproduct](assets/images/pharma.png)
+
+### 具体的に何をやっていたのか
+
 
 ### おわり
