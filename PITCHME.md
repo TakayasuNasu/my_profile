@@ -28,9 +28,6 @@
 
 ---
 
-- ファーマプロダクト
-- https://pharmaproduct.co.jp/
-
 ![pharmaproduct](assets/images/pharma.png)
 
 
@@ -38,23 +35,39 @@
 
 ![mynavi](assets/images/mynavi.png)
 
-- マイナビjob20s
-- https://mynavi-job20s.jp/
+---
+
+![senkin](assets/images/senkin.png&size=auto 90%)
 
 ---
 
-![sengoku](assets/images/senkin.png)
-
----
-
-![sengoku](assets/images/momokoplanet.png)
-
-- 戦国キングダム
-- サイト閉鎖済み
+![momopla](assets/images/momokoplanet.png)
 
 ---
 
 ### 具体的に何をやっていたのか
+
+---
+
+![program](assets/images/program.png)
+
+---
+
+![class](assets/images/class.png)
+
+---
+
+![figure](assets/images/figure.gif)
+
+---
+
+![erd](assets/images/erd.png)
+
+---
+
+![iterm2_2](assets/images/iterm2_2.png)
+
+---
 
 
 ---
