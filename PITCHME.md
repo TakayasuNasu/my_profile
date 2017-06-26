@@ -120,5 +120,4 @@
 ---
 
 ### よろしくお願いします
- 
-→[スライドで開く](https://gitpitch.com/TakayasuNasu/my_profile)
+
